@@ -1,3 +1,5 @@
+## PixelPulse
+
 What I want this project to be:
 
 Front-end:
@@ -13,6 +15,7 @@ Front-end:
 5. Front end logging and failure reporting will be done
 6. Cookies will be used for tracking
 7. Tailwind will be used for CSS. Not using it for inherited CSS and animations.
+8. Folder level routing with src as main
 
 Backend:
 1. Will be built with Springboot
